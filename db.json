@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "name": "Bikash katwal",
+      "username": "bikash",
+      "email": "bikash@example",
+      "phone": "654654",
+      "website": "bikashweb",
+      "id": 1
+    },
+    {
+      "name": "Aditya karki",
+      "username": "aditya22",
+      "email": "aditya@example",
+      "phone": "546",
+      "website": "adityaweb",
+      "id": 2
+    },
+    {
+      "name": "Dipesh rai",
+      "username": "dipesh4",
+      "email": "dipesh@example",
+      "phone": "6465464",
+      "website": "dipeshweb",
+      "id": 3
+    }
+  ]
+}
